@@ -35,3 +35,4 @@ void swap_tail(listint_t *aux);
 void swap(int *x, int *y);
 void quicksort_recursioin(int *array, int start, int end, size_t size);
 int partition(int *array, int low, int high, size_t size);
+#endif
